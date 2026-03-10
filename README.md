@@ -2,15 +2,15 @@
 
 Hi there
 
-I'm Ty (he/him/they/them).
+I'm Ty (they/them).
 
-I do things, with things. Sometimes virtually. Sometimes musically. Sometimes visually. Sometimes physically. Sometimes theoretically for the fun of it. And sometimes I get my hands dirty in the garden.
+I do things, with things. Sometimes virtually. Sometimes musically. Sometimes visually. Sometimes physically. Sometimes theoretically, for the fun of it. And sometimes I get my hands dirty in the garden.
 
 > The world is here to be understood, and a day without learning is a day not lived.
 
 ## 💻 Skills/Languages Summary
 
-Unicorn. Polyglot. JS/TS/Shellscripting/SQL/Java/Python/PERL/C/C++/Go. Lots of server stuff. System-integration. Cross-media/sensory art. Past network/BGP/DC specialist.
+Unicorn. Polyglot. JS/TS/Shellscripting/SQL/Java/Python/PERL/C/C++/Go. Lots of server stuff. DevOps. System-integration. Cross-media/sensory art. Past network/BGP/DC specialist.
 
 ## 📚 Learning...
 
